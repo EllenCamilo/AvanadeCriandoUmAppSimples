@@ -1,21 +1,13 @@
-# Digital Innovation One - Prática .NET
+# Projeto para o bootcamp Decola Tech
 
 ## Criando uma APP de cadastro em memória
 
-[Slides](dio-dotnet-poo-lab-2.pdf)
-
 ## Contato
 
-Eliézer Zarpelão
+Ellen Mariza Camilo
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
+Linkedin:  [br.linkedin.com/ellen-mariza](https://www.linkedin.com/in/ellen-mariza-a47a84208/)
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
+Github:  [github.com/EllenCamilo](https://github.com/EllenCamilo)
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
 
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
